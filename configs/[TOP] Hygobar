@@ -23,6 +23,7 @@
 
 "modules-left": [
 	"clock",
+	"custom/window-info",
 	"tray",
 	"custom/separator#dot-line",
 	"group/drawerless-audio",
@@ -34,8 +35,6 @@
 	"group/notify",
 	"custom/separator#dot-line",
 	"hyprland/workspaces#rw",
-	"custom/separator#dot-line",
-	"custom/window-info",
 	"custom/weather",
 	"custom/separator#dot-line",
 	"idle_inhibitor",	
